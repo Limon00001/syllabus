@@ -1,0 +1,352 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+/* ----------------- Starts first part---------------- */
+.first{
+    display: flex;
+    gap: 120px;
+}
+.week{
+    margin-top: 20px;
+    text-align: center;
+    align-self: flex-start;
+    background-color: rgb(211, 211, 211);
+    display: inline-block;
+    border-radius:5px;
+    width: 80px;
+}
+.InContent{
+    display: flex;
+    gap: 25px;
+}
+.InContent_1{
+    text-align: center;
+    background-color: rgb(238, 196, 248);
+    display: inline-block;
+    border-radius:5px;
+    width: 80px;
+}
+.InContent_2{
+    text-align: center;
+    background-color: rgb(181, 195, 250);
+    display: inline-block;
+    border-radius:5px;
+    width: 120px;
+}
+.InContent_3{
+    text-align: center;
+    background-color: rgb(250, 180, 150);
+    display: inline-block;
+    border-radius:5px;
+    width: 130px;
+}
+.InContent_4{
+    text-align: center;
+    background-color: rgb(158, 249, 185);
+    display: inline-block;
+    border-radius:5px;
+    width: 90px;
+}
+
+/* ---------------------- ends first part----------------- */
+
+
+/* ---------------------- starts second part -------------- */
+
+.second{
+    display: flex;
+    gap: 120px;
+}
+.week{
+    margin-top: 20px;
+    text-align: center;
+    align-self: flex-start;
+    background-color: rgb(211, 211, 211);
+    display: inline-block;
+    border-radius:5px;
+    width: 80px;
+}
+.InContent{
+    display: flex;
+    gap: 25px;
+}
+.InContent_1{
+    text-align: center;
+    background-color: rgb(238, 196, 248);
+    display: inline-block;
+    border-radius:5px;
+    width: 80px;
+}
+.InContent_2{
+    text-align: center;
+    background-color: rgb(181, 195, 250);
+    display: inline-block;
+    border-radius:5px;
+    width: 120px;
+}
+.InContent_3{
+    text-align: center;
+    background-color: rgb(250, 180, 150);
+    display: inline-block;
+    border-radius:5px;
+    width: 130px;
+}
+.InContent_4{
+    text-align: center;
+    background-color: rgb(158, 249, 185);
+    display: inline-block;
+    border-radius:5px;
+    width: 150px;
+}
+.InContent_5{
+    text-align: center;
+    background-color: rgb(158, 249, 185);
+    display: inline-block;
+    border-radius:5px;
+    width: 250px;
+}
+
+/* --------------------- end second part ----------- */
+
+/* --------------------- starts third part ----------- */
+.third{
+    display: flex;
+    gap: 120px;
+}
+.week{
+margin-top: 20px;
+text-align: center;
+align-self: flex-start;
+background-color: rgb(211, 211, 211);
+display: inline-block;
+border-radius:5px;
+width: 80px;
+}
+.InContent{
+display: flex;
+gap: 25px;
+}
+.InContent_1{
+text-align: center;
+background-color: rgb(238, 196, 248);
+display: inline-block;
+border-radius:5px;
+width: 80px;
+}
+.InContent_3{
+text-align: center;
+background-color: rgb(250, 180, 150);
+display: inline-block;
+border-radius:5px;
+width: 130px;
+}
+
+/* ------------------ ends third part ----------- */
+
+/* ------------------ starts fourth part ----------- */
+
+.fourth{
+    display: flex;
+    gap: 120px;
+}
+.week{
+    margin-top: 20px;
+    text-align: center;
+    align-self: flex-start;
+    background-color: rgb(211, 211, 211);
+    display: inline-block;
+    border-radius:5px;
+    width: 80px;
+}
+.InContent{
+    display: flex;
+    gap: 25px;
+}
+.InContent_1{
+    text-align: center;
+    background-color: rgb(238, 196, 248);
+    display: inline-block;
+    border-radius:5px;
+    width: 80px;
+}
+.InContent_2{
+    text-align: center;
+    background-color: rgb(181, 195, 250);
+    display: inline-block;
+    border-radius:5px;
+    width: 120px;
+}
+.InContent_3{
+    text-align: center;
+    background-color: rgb(250, 180, 150);
+    display: inline-block;
+    border-radius:5px;
+    width: 130px;
+}
+
+/* --------------- ends fourth part ------------- */
+
+/* --------------- starts fifth part ------------- */
+.fifth{
+    display: flex;
+    gap: 120px;
+}
+.week{
+margin-top: 20px;
+text-align: center;
+align-self: flex-start;
+background-color: rgb(211, 211, 211);
+display: inline-block;
+border-radius:5px;
+width: 80px;
+}
+.InContent{
+display: flex;
+gap: 25px;
+}
+.InContent_1{
+text-align: center;
+background-color: rgb(238, 196, 248);
+display: inline-block;
+border-radius:5px;
+width: 80px;
+}
+.InContent_3{
+text-align: center;
+background-color: rgb(250, 180, 150);
+display: inline-block;
+border-radius:5px;
+width: 130px;
+}
+
+/* -------------------- ends fifth part ------------- */
+
+/* --------------- starts sixth part ------------- */
+.sixth{
+    display: flex;
+    gap: 120px;
+}
+.week{
+margin-top: 20px;
+text-align: center;
+align-self: flex-start;
+background-color: rgb(211, 211, 211);
+display: inline-block;
+border-radius:5px;
+width: 80px;
+}
+.InContent{
+display: flex;
+gap: 25px;
+}
+.InContent_1{
+text-align: center;
+background-color: rgb(238, 196, 248);
+display: inline-block;
+border-radius:5px;
+width: 80px;
+}
+.InContent_3{
+text-align: center;
+background-color: rgb(250, 180, 150);
+display: inline-block;
+border-radius:5px;
+width: 130px;
+}
+
+/* -------------------- ends sixth part ------------- */
+
+/* --------------- starts seventh part ------------- */
+.seventh{
+    display: flex;
+    gap: 120px;
+}
+.week{
+margin-top: 20px;
+text-align: center;
+align-self: flex-start;
+background-color: rgb(211, 211, 211);
+display: inline-block;
+border-radius:5px;
+width: 80px;
+}
+.InContent{
+display: flex;
+gap: 25px;
+}
+.InContent_1{
+text-align: center;
+background-color: rgb(238, 196, 248);
+display: inline-block;
+border-radius:5px;
+width: 80px;
+}
+.InContent_3{
+text-align: center;
+background-color: rgb(250, 180, 150);
+display: inline-block;
+border-radius:5px;
+width: 130px;
+}
+.InContent_4{
+    text-align: center;
+    background-color: rgb(158, 249, 185);
+    display: inline-block;
+    border-radius:5px;
+    width: 150px;
+}
+
+/* -------------------- ends seventh part ------------- */
+
+/* --------------- starts eight part ------------- */
+.eight{
+    display: flex;
+    gap: 120px;
+}
+.week{
+margin-top: 20px;
+text-align: center;
+align-self: flex-start;
+background-color: rgb(211, 211, 211);
+display: inline-block;
+border-radius:5px;
+width: 80px;
+}
+
+/* -------------------- ends eight part ------------- */
+
+/* --------------- starts ninth part ------------- */
+.ninth{
+    display: flex;
+    gap: 120px;
+}
+.week{
+margin-top: 20px;
+text-align: center;
+align-self: flex-start;
+background-color: rgb(211, 211, 211);
+display: inline-block;
+border-radius:5px;
+width: 80px;
+}
+
+/* -------------------- ends ninth part ------------- */
+
+/* --------------- starts tenth part ------------- */
+.tenth{
+    display: flex;
+    gap: 120px;
+}
+.week{
+margin-top: 20px;
+text-align: center;
+align-self: flex-start;
+background-color: rgb(211, 211, 211);
+display: inline-block;
+border-radius:5px;
+width: 80px;
+}
+
+/* -------------------- ends tenth part ------------- */
